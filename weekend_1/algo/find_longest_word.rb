@@ -14,7 +14,7 @@
  
 # end
 
-# JOSH ANSWER, includes apostrophes that might happen in a word using Regex
+# alternate answer, includes apostrophes that might happen in a word using Regex
 
 def find_longest_word(sentence)
   longest_word = ""
